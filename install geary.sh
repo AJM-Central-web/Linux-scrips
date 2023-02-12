@@ -1,0 +1,2 @@
+﻿Sudo apt install geary
+

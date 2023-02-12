@@ -1,0 +1,1 @@
+﻿Sudo apt install kmail
